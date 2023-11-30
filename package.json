@@ -1,0 +1,15 @@
+{
+  "name": "desenvolvimento-front-t.2",
+  "version": "1.0.0",
+  "description": "Atividade API Previsão do Tempo para Desenvolvimento Front-end - Grupo: Andy Barros, Felipe Magalhães Mostaço, Murilo Teles, Tiago Cavicchiolli",
+  "main": "APIPrevisaoDoTempo.js",
+  "scripts": {
+   "start": "node main.js"
+  },
+  "keywords": ["weather", "forecast", "front-end"],
+  "author": "Equipe do Projeto",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
